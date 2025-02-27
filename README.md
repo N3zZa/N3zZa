@@ -10,6 +10,7 @@ Front-end dev
 * 🌌 I have experience working as a freelancer. 
 * 🐾 I also have experience working in a team, interacted with a backend developer and designer. I am currently studying at the BSUIR in Minsk.
 
+
 * 🌍  I'm based in Belarus, Minsk
 * ✉️  You can contact me at [Telegram](mailto:https://t.me/N3z_Za)
 
