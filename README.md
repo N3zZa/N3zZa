@@ -4,10 +4,14 @@ Hi 👋 My name is Nazar
 Front-end dev
 -------------
 
-I specialize in developing user interfaces using React js, html,css, tailwind css, etc. I've been using the computer for more than 10 years I learn quickly and find solutions. I have experience working as a freelancer. I also have experience working in a team, interacted with a backend developer and designer. I am currently studying at the BSUIR in Minsk.
+* 🍁 I specialize in developing user interfaces using React js, html,css, tailwind css, etc. 
+* 😅 I've been using the computer for more than 10 years
+* ⚡ I learn quickly and find solutions. 
+* 🌌 I have experience working as a freelancer. 
+* 🐾 I also have experience working in a team, interacted with a backend developer and designer. I am currently studying at the BSUIR in Minsk.
 
 * 🌍  I'm based in Belarus, Minsk
-* ✉️  You can contact me at [https://t.me/N3z\_Za](mailto:https://t.me/N3z_Za)
+* ✉️  You can contact me at [Telegram](mailto:https://t.me/N3z_Za)
 
 ### Skills
 
@@ -25,4 +29,4 @@ I specialize in developing user interfaces using React js, html,css, tailwind cs
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/N3zZa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=N3zZa&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
