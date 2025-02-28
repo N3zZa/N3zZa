@@ -8,7 +8,8 @@ Front-end dev
 * 😅 I've been using the computer for more than 10 years
 * ⚡ I learn quickly and find solutions. 
 * 🌌 I have experience working as a freelancer. 
-* 🐾 I also have experience working in a team, interacted with a backend developer and designer. I am currently studying at the BSUIR in Minsk.
+* 🐾 I also have experience working in a team, interacted with a backend developer and designer.
+* 📌 I am currently studying at the BSUIR in Minsk.
 
 
 * 🌍  I'm based in Belarus, Minsk
