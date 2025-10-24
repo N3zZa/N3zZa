@@ -5,7 +5,7 @@ Front-end dev
 -------------
 
 * 🍁 I specialize in developing user interfaces using React js, html,css, tailwind css, etc. 
-* 😅 I've been using the computer for more than 10 years
+* 😅 I've been using the computer for more than 14 years
 * ⚡ I learn quickly and find solutions. 
 * 🌌 I have experience working as a freelancer. 
 * 🐾 I also have experience working in a team, interacted with a backend developer and designer.
