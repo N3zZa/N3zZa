@@ -10,8 +10,10 @@ Front-end dev
 * 🌌 I have experience working as a freelancer. 
 * 🐾 I also have experience working in a team, interacted with a backend developer and designer.
 * 📌 I am currently studying at the BSUIR.
-
-
+* 🏆 Participated in several hackathons, including:
+  • FCADHACK by T-Bank — 3rd place 🥉
+  • DatsTeam Hackathons — DatsPulse, DatsCity
+  • BigData Hackathon
 * 🌍  I'm based in Belarus, Minsk
 * ✉️  You can contact me at [Telegram](mailto:https://t.me/N3z_Za)
 
