@@ -15,7 +15,7 @@ Front-end dev
   - DatsTeam Hackathons — DatsPulse, DatsCity
   - BigData Hackathon
 * 🌍  I'm based in Belarus, Minsk
-* ✉️  You can contact me at [Telegram](mailto:https://t.me/N3z_Za)
+* ✉️  You can contact me at [Telegram](https://t.me/N3z_Za)
 
 ### Skills
 
