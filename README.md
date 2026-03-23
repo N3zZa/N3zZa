@@ -4,8 +4,8 @@ Hi 👋 My name is Nazar
 Front-end dev
 -------------
 
-* 🍁 I specialize in developing user interfaces using React js, html,css, tailwind css, etc. 
-* 😅 I've been using the computer for more than 14 years
+* 🍁 I specialize in developing user interfaces using React, Next, typescript, tailwind css, etc. 
+* 😅 I am with at least 2 years of experience and a total of 4 years of experience in frontend dev
 * ⚡ I learn quickly and find solutions. 
 * 🌌 I have experience working as a freelancer. 
 * 🐾 I also have experience working in a team, interacted with a backend developer and designer.
