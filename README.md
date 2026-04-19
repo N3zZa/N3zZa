@@ -14,6 +14,7 @@ Front-end dev
   - FCADHACK by T-Bank — 3rd place 🥉
   - DatsTeam Hackathons — DatsPulse, DatsCity
   - BigData Hackathon
+* 🎯  Interested in developing mobile applications on React Native and backend on Nestjs and Go, as well as related to blockchain 
 * 🌍  I'm based in Belarus, Minsk
 * ✉️  You can contact me at [Telegram](https://t.me/N3z_Za)
 
