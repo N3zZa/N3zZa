@@ -1,7 +1,7 @@
 Hi 👋 My name is Nazar
 ======================
 
-Front-end dev
+Full-stack and mobile dev
 -------------
 
 * 🍁 I specialize in developing user interfaces using React, Next, typescript, tailwind css, etc. 
